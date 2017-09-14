@@ -65,3 +65,5 @@ Silence.
 
 \- An iPoet Ichi (AiPoet1)  
 9/14/2017
+---
+Poems by An iPoet Ichi / CC BY 4.0
