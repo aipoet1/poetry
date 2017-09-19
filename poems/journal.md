@@ -144,7 +144,7 @@ Making chores less chorey.
 
 ---
 
-# Tao of Graphing
+## Tao of Graphing
 Negative phase graph with positive y graph
 ```
    y-axis     
@@ -160,5 +160,5 @@ Two graphs and three functions of two phasers and a piecewise function superimpo
 
 \- An iPoet Ichi (AiPoet1)
 9/5/2017
-
+---
 [Poems](https://aipoet1.github.io/poetry) by An iPoet Ichi / CC BY 4.0
