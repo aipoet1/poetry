@@ -10,7 +10,7 @@ Collection of writings from an engineer's mind to a writer's hands
 [Pain](https://aipoet1.github.io/poetry/poems/2017.08.15/pain)  
 
 ### September
-[Flower in the mind](https://aipoet1.github.io/poetry/poems/2017.09.13/flower-in-the-mind.md)  
+[Flower in the mind](https://aipoet1.github.io/poetry/poems/2017.09.13/flower-in-the-mind)  
 [Madness is my Sin](https://aipoet1.github.io/poetry/poems/2017.09.14/madness_is_my_sin)
 
 ---
