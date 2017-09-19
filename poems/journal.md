@@ -143,4 +143,22 @@ Making chores less chorey.
 8/13/2017
 
 ---
+
+# Tao of Graphing
+Negative phase graph with positive y graph
+```
+   y-axis     
+     |  /\
+     | / alpha
+    _|/____\__ x-axis
+    /|\
+   / | \ omega
+tau  |  \
+   (-i)-axis    
+```
+Two graphs and three functions of two phasers and a piecewise function superimposed.
+
+\- An iPoet Ichi (AiPoet1)
+9/5/2017
+
 [Poems](https://aipoet1.github.io/poetry) by An iPoet Ichi / CC BY 4.0
